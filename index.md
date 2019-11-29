@@ -14,7 +14,7 @@ The museum is Building as Code and includes not only the museum structure but al
 
 Programmed Landscapes is a libray that helps builders develop larger land plots by positioning entities, e.g. glTF models in well-defined 2D grid layers. Once layer dimensions and grid size have been defined, models can be placed straight-forward by simply setting their relative position, rotation and scaling. Layers themselves can be positioned, rotated and scaled as well. Layers can be combined with each other so that different needs can be adressed, e.g. larger and smaller grid cell sizes or different levels of height. The positioning of entities in a grid cell can be randomized so that more natural onfigurations like forests can be achieved.
 
-The library was created together with [Ile](https://github.com/iillee), who created the architecture modules as glTT, as our contribution to the June 2019 Decentraland Hackathon. It is open source and its code can be retrieved from the [DCL Landscapes repository on GitHub](https://github.com/vrontier/dcl-landscapes).
+The library was created together with [Ile](https://github.com/iillee), who created the architecture modules as glTF, as our contribution to the June 2019 Decentraland Hackathon. It is open source and its code can be retrieved from the [DCL Landscapes repository on GitHub](https://github.com/vrontier/dcl-landscapes).
 
 ## Building in Decentraland
 
