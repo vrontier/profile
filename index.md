@@ -1,6 +1,6 @@
 # My Activities in Decentraland
 
-I joined [Decentraland's Virtual Reality](https://decentraland.org/) as land owner and district contributor and got using its software development kit (SDK) for my projects. Besides the joy of creating virtual structures from code - **Building as Code** - it is Decentraland's community that makes working in this new space so exciting. A vivid exchange with lots of LOL including a direct link to the development team is taking place almost 24-7 on [Decentraland's Discord](https://dcl.gg/discord).    
+I joined [Decentraland's Virtual Reality](https://decentraland.org/) as land owner and district contributor and started using its software development kit (SDK) for my projects. Besides the joy of creating virtual structures from code - **Building as Code** - it is Decentraland's community that makes working in this new space so exciting. A vivid exchange with lots of LOL including a direct link to the development team is taking place almost 24-7 on [Decentraland's Discord](https://dcl.gg/discord).    
 
 Below is a brief description of the two main projects I am working on right now and a few pointers for those interested in building in this new world.
 
