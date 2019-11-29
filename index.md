@@ -2,7 +2,7 @@
 
 I joined [Decentraland's Virtual Reality](https://decentraland.org/) as land owner and district contributor and got using its SDK for the development of a number of projects. Besides the joy of creating virtual structures from code - **Building as Code** - it is Decentraland's community that makes working in this new space so exciting. A vivid exchange with lots of LOL including a direct link with the development team is happening on [Decentraland's Discord](https://dcl.gg/discord).    
 
-## MoVA, the Museum of Virtual Arts, Aetheria Decentraland
+## MoVA, the Museum of Virtual Arts, Aetheria
 
 The purpose of this project is to build the Museum of Virtual Arts in Aetheria, Decentraland, in which virtual artworks will be exhibited so that they can be experienced by anyone and anybot. The project aims also at establishing a set of ateliers in which Aetherian artists can work and a gallery for the acquisition of virtual artworks.
 
