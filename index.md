@@ -1,8 +1,5 @@
 # My Activities in Decentraland
 
-> "Everything you can imagine is real.”
-> ― (attributed to) Pablo Picasso
-
 I joined [Decentraland's Virtual Reality](https://decentraland.org/) as land owner and district contributor and got using its SDK for the development of a number of projects. Besides the joy of creating virtual structures from code - **Building as Code** - it is Decentraland's community that makes working in this new space so exciting. A vivid exchange with lots of LOL including a direct link to the development team is taking place almost 24-7 on [Decentraland's Discord](https://dcl.gg/discord).    
 
 Below is a brief description of the two main projects I am working on right now and a few pointers for those who want to start building in this facinating new world.
